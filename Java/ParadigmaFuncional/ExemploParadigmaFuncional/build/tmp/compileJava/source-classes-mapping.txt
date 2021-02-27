@@ -8,3 +8,10 @@ FuncoesPuras.java
  FuncoesPuras
 Imutabilidade.java
  Imutabilidade
+Funcao.java
+ Funcao
+FuncaoDeClasseAnonima.java
+ FuncaoDeClasseAnonima
+ FuncaoDeClasseAnonima$1
+FuncaoComLambda.java
+ FuncaoComLambda
