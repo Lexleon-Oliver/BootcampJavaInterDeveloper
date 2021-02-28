@@ -15,3 +15,19 @@ FuncaoDeClasseAnonima.java
  FuncaoDeClasseAnonima$1
 FuncaoComLambda.java
  FuncaoComLambda
+Recursividade.java
+ Recursividade
+FatorialTailCall.java
+ FatorialTailCall
+FuncaoAltaOrdem.java
+ Calculo
+ FuncaoAltaOrdem
+Consumidores.java
+ Consumidores
+Funcoes.java
+ Funcoes
+Predicado.java
+ Predicado
+Suppliers.java
+ Pessoa
+ Suppliers
